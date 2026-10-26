@@ -221,6 +221,5 @@ This project is an academic data analytics study. It does not diagnose mental he
 
 **Project:** Mental Health Risk Profiling and Treatment-Gap Identification Using K-Means Clustering  
 **Course:** BCSE335L — Healthcare Data Analytics  
-**Author(s):** Add the current project author(s)  
-**Institution:** Vellore Institute of Technology  
+**Author(s):** Atharv Agarwal
 **Academic Year:** 2026–2027
